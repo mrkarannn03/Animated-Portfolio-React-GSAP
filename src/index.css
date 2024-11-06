@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: fnt1;
+  src: url(./assets/fonts/f2.woff2);
+}
+
+@font-face {
+  font-family: fnt2;
+  src: url(./assets/fonts/f2.woff2);
+}
+
+@font-face {
+  font-family: fnt3;
+  src: url(./assets/fonts/f3.woff2);
+}
+
+@font-face {
+  font-family: fnt4;
+  src: url(./assets/fonts/f4.woff2);
+}
+
+@font-face {
+  font-family: fnt5;
+  src: url(./assets/fonts/f5.woff2);
+}
+
+@font-face {
+  font-family: fnt6;
+  src: url(./assets/fonts/madefor-text.var.original.woff2);
+}
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body, html{
+  height: 100%;
+  width: 100%;
+  background-color: #111;
+  color: #fff;
+}
+
+#section2{
+  position: relative;
+  perspective: 3000px;
+}
+#tiltdiv{
+  /* background-color: aquamarine; */
+  width: fit-content;
+  /* transform: rotateX(50deg); */
+}
