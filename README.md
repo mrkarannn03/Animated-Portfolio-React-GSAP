@@ -18,9 +18,6 @@
   <li><strong>Framer Motion</strong> <em>(optional)</em>: For adding subtle interactions on specific elements (if used).</li>
 </ul>
 
-<h2>📸 Preview</h2>
-<p><img src="https://your-image-link.com/preview.png" alt="Portfolio Preview" /></p>
-
 <h2>🔧 Installation & Setup</h2>
 <p>To run this project locally:</p>
 <ol>
@@ -40,6 +37,6 @@ npm install</code></pre>
 <h2>📫 Contact</h2>
 <p>Feel free to reach out for collaboration or feedback:</p>
 <ul>
-  <li><strong>Email</strong>: <a href="mailto:your-email@example.com">your-email@example.com</a></li>
-  <li><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a></li>
+  <li><strong>Email</strong>: <a href="mailto:karansingh13531@gmail.com">karansingh13531@gmail.com</a></li>
+  <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/karan-singh-b3a38026b/">linkedin.com/in/karan-singh-b3a38026b/</a></li>
 </ul>
